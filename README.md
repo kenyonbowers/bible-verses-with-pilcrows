@@ -11,7 +11,7 @@ This is a json and a txt file containing every verse in the King James Bible tha
 ```
 
 ## txt format
-```txt
+```
 [Genesis]
 1:6, 1:9, ...
 
