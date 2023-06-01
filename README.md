@@ -1,7 +1,7 @@
-# bible-verses-with-pilcrows
-This is a json and a txt file containing every verse in the King James Bible that contains a pilcrow.
+# Bible Verses Containing Pilcrows
+These files (.JSON and .TXT) contain a list of every verse in the King James Bible which contain a pilcrow.
 
-## json format
+## .JSON Format
 ```json
 {
   "Genesis": ["1:6", "1:9", ...],
@@ -10,7 +10,7 @@ This is a json and a txt file containing every verse in the King James Bible tha
 }
 ```
 
-## txt format
+## .TXT Format
 ```
 [Genesis]
 1:6, 1:9, ...
